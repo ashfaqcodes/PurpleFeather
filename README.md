@@ -1,4 +1,17 @@
-<a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="Creative Commons License" style="border-width:0" src="![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png)" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero v1.0 Universal</a>.
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/ashfaqcodes">
+    <span property="dct:title">ashfaqcodes</span></a>
+  has waived all copyright and related or neighboring rights to
+  this work.
+
+
 # PurpleFeather
 ![qemu](https://user-images.githubusercontent.com/87825411/128519628-7a49069c-4c94-42fc-ae91-532658db2275.jpg)
 
