@@ -19,25 +19,24 @@ namespace CosmosBoot1
         {
             var xBoot = new Cosmos.Sys.Boot();
             xBoot.Execute();
-            Console.WriteLine("Welcome to PurpleFeather! Type 'help' for commands");
+            Console.WriteLine("Welcome to PurpleFeather! Type 'help' for commands");  // A welcome message after booting
             while (true)
 
                 while (true)
                 {
 
-                    string command = Console.ReadLine();
+                    string command = Console.ReadLine();  // making the OS to read the input given by the user
 
                     switch (command)
                     {
-
+                        // command for shutting down the OS
                         case "shutdown":
                             {
-                                Cosmos.Sys.Deboot.ShutDown();
-
+                                Cosmos.Sys.Deboot.ShutDown();  
                                 break;
 
                             }
-
+                        // 'help' is for showing commands
                         case "help":
                             {
 
@@ -52,7 +51,7 @@ namespace CosmosBoot1
                                 break;
 
                             }
-
+                        // info about the OS
                         case "about":
                             {
 
@@ -63,7 +62,7 @@ namespace CosmosBoot1
                                 break;
 
                             }
-
+                        // command for rebooting the OS
                         case "reboot":
                             {
 
@@ -72,7 +71,7 @@ namespace CosmosBoot1
                                 break;
 
                             }
-
+                        // a simple command for greeting OS
                         case "hello":
                             {
 
@@ -81,7 +80,7 @@ namespace CosmosBoot1
                                 break;
 
                             }
-
+                        // output of the error when given wrong input by the user
                         default:
                             {
                                 Console.WriteLine("No such command, type 'help' for commands");
