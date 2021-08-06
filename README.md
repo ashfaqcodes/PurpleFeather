@@ -1,4 +1,4 @@
-<a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="Creative Commons License" style="border-width:0" src="![image](https://user-images.githubusercontent.com/87825411/128553715-23512aaa-e7dd-41f3-bf92-c338333e29d0.png)" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero v1.0 Universal</a>.
+<a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="Creative Commons License" style="border-width:0" src="![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png)" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero v1.0 Universal</a>.
 # PurpleFeather
 ![qemu](https://user-images.githubusercontent.com/87825411/128519628-7a49069c-4c94-42fc-ae91-532658db2275.jpg)
 
