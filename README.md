@@ -25,10 +25,8 @@ _mboot.c32 is not a COM32R image_
 
 # System Requirements:
 
-CPU: 128 Mhz
+**CPU:** 128 Mhz
 
-RAM: 16 MB
+**RAM:** 16 MB
 
-VRAM: 1MB
-
-Storage: N/A
+**Storage**: N/A
