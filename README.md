@@ -19,9 +19,10 @@ A simple OS made with Visual Studio Express C# 2008 using COSMOS User Kit. Purpl
 
 You can download the ISO file and try it on VMware or VirtualBox
 
-but booting from USB may have an error.
-
-_mboot.c32 is not a COM32R image_
+Boot this OS in your USB using Linux Live USB Creator
+(try it! http://www.linuxliveusb.com/en/home).
+Rufus, UUI or other bootable USB creator may not work
+  
 
 # System Requirements:
 
